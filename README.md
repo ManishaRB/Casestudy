@@ -23,6 +23,6 @@ VMS helps to manage volunteer information, track volunteer hours, and manage tas
 
 - HTML/CSS
 
--JavaScript
+- JavaScript
 
 - Bootstrap
